@@ -7,6 +7,11 @@ const HomePage = () => {
       <Link to="/usestate">
         Go To <strong>UseState</strong> Example Page &#8594;
       </Link>
+      <br />
+      <br />
+      <Link to="/useeffect">
+        Go To <strong>UseEffect</strong> Example Page &#8594;
+      </Link>
     </div>
   );
 };
