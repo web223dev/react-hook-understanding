@@ -12,6 +12,11 @@ const HomePage = () => {
       <Link to="/useeffect">
         Go To <strong>UseEffect</strong> Example Page &#8594;
       </Link>
+      <br />
+      <br />
+      <Link to="/customhook">
+        Go To <strong>CustomHook</strong> Example Page &#8594;
+      </Link>
     </div>
   );
 };

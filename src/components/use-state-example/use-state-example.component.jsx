@@ -1,5 +1,4 @@
 import React, { useState } from "react";
-import { Link } from "react-router-dom";
 
 import Card from "../card/card.component";
 
@@ -17,11 +16,6 @@ const UseStateExample = () => {
           Set Address to United States
         </button>
       </Card>
-      <br />
-      <br />
-      <Link to="/">
-        &#8592; Go back <strong>Home</strong> Page
-      </Link>
     </>
   );
 };
