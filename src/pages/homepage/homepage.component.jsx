@@ -17,6 +17,11 @@ const HomePage = () => {
       <Link to="/customhook">
         Go To <strong>CustomHook</strong> Example Page &#8594;
       </Link>
+      <br />
+      <br />
+      <Link to="/usereducer">
+        Go To <strong>UseReducer</strong> Example Page &#8594;
+      </Link>
     </div>
   );
 };
